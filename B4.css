@@ -73,16 +73,27 @@ justify-content: center;
 
 }
 
-/*
+.OorC{
 
-#Headers{
+color: black;
 
-margin: 20px;
-border-radius: 20px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+font-size:  20px;
 
 
 }
 
-*/
+
+
+.sameboth{
+
+
+color: #fff;
+font-family:rocksalt; 
+
+
+
+}
  
-    
+
