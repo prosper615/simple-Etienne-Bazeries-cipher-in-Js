@@ -1,0 +1,88 @@
+
+
+/* Below is the css which i want to modify, it might turn out to be the main css */
+
+/* Please donot really mind if i don't really modify, plss idc rn */
+
+/*  Just roast my stupid code not only this one but all you find plsss*/
+
+
+
+body {
+background: #535b63;
+font-family: Arial, sans-serif;
+}
+
+
+input {
+padding: 10px;
+border: none;
+border-radius: 5px;
+width: 50%;
+margin: 20px auto;
+display: block;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+outline: none;
+
+
+}
+
+
+
+button {
+padding: 10px 20px;
+border: none;
+border-radius: 5px;
+background: #4CAF50;
+color: #fff;
+cursor: pointer;
+margin: 20px auto;
+display: block;
+}
+
+
+button:hover {
+background: #3e8e41;
+}
+
+
+#result {
+color: #fff;
+font-size: 24px;
+text-align: center;
+margin-top: 20px;
+}
+
+
+
+h1{ 
+
+
+display: flex;
+color: #3e8e41;
+justify-content: center;
+
+}
+
+h2{
+
+display: flex;
+color: #3e8e41 ;
+justify-content: center;
+
+
+}
+
+/*
+
+#Headers{
+
+margin: 20px;
+border-radius: 20px;
+
+
+}
+
+*/
+ 
+    
